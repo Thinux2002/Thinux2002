@@ -24,7 +24,7 @@
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/thinal-dewnayana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/thinal.dewnayana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -61,7 +61,11 @@
 ---
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem-thinux2002.vercel.app/api/spotify)](https://open.spotify.com/user/thinux2002)
+<p align="center">
+  <a href="https://open.spotify.com/user/thinux2002" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
 
 ---
 
